@@ -1,8 +1,5 @@
 html {
-  /* background-color: #000000; */
-  /* background-image: -webkit-linear-gradient( #141e30 50%, #243b55 50%); */
-  /* min-height: 1000px; */
-  /* font-family: 'helvetica neue'; */
+ 
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body{
@@ -36,9 +33,7 @@ body{
 
 .mainpage{
   display: flex;
-  /* justify-content: space-around;
-  gap: 100px; */
-  /* justify-content: center; */
+
   align-items: center;
   padding-top: 100px;
   padding-bottom: 200px;
@@ -65,7 +60,6 @@ body{
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .listlink:hover{
-  /* background: #03e9f4; */
   color: #fff;
 }
 .listtitle{
@@ -75,7 +69,6 @@ body{
 }
 .listtitle:hover{
   color: #03e9f4;
-
 }
 
 h1 {
@@ -87,11 +80,8 @@ h1 {
   width: auto;
   margin: auto;
   max-width: 400px;
-  /* margin: 50px auto; */
-  /* background: rgb(34, 34, 34); */
   background: rgba(0,0,0,.5);
   border-radius: 5px;
-  /* box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3); */
   box-shadow: 0 15px 25px rgba(0,0,0,.6);
   
 }
@@ -143,7 +133,6 @@ button {
   min-height: 40px;
   width: 40px;
   border-radius: 50%;
-   /* border-color: transparent; */
    background: #141e30;
    color: #03e9f4; 
   font-size: 30px;
@@ -183,8 +172,6 @@ input[type="text"]:focus {
   color: grey;
   opacity: 1;
 }
-
-
 .footer {
   display: flex;
   justify-content: center;
@@ -199,7 +186,6 @@ input[type="text"]:focus {
   bottom: 0;
 
 }
-
 .nothuman:hover{
   color: #03e9f4; 
 
