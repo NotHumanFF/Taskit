@@ -1,3 +1,3 @@
 # Taskit
 ---
-A Personlize ToDo Application made with Javascript, EJS and Nodejs 
+A Personlize ToDo Application made with Javascript, Nodejs, Ejs and enabled with MongoDB database with a facility of customizable list.
