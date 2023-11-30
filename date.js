@@ -14,6 +14,7 @@ exports.getDate = function() {
 
 };
 
+
 exports.getDay = function () {
 
   const today = new Date();
